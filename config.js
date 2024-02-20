@@ -53,14 +53,14 @@ global.APIKeys = { // APIKey Here
 global.botname = 'ꪶꪖɀꪖᥴ𝘬-ꪑᦔ'
 global.premium = 'true'
 global.packname = 'O̷N̷L̷Y̷ ̷B̷O̷T̷S̷ ̷M̷A̷S̷T̷E̷R̷S̷' 
-global.author = '@Asliguru' 
-global.menuvid = 'https://i.imgur.com/XJtoS08.mp4'
+global.author = 'mr mtaju' 
+global.menuvid = 'https://i.imgur.com/0y5uHVh.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@Asliguru'
 global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://raw.githubtusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
